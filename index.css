@@ -17,6 +17,7 @@ h2 {
   margin-right: 10px;
   margin-left: 10px;
   padding-top: 13px;
+  max-height: 65px;
 }
 .head_desc{
   margin-left: 10px;
