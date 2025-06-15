@@ -46,7 +46,7 @@ h2 {
   text-align: center;
   font-size: 15px;
   display: block;
-  padding: 15px;
+  padding: 15px 30px 15px 30px;
 }
 .dropdown a:hover {
   background-color: hsla(235, 3%, 6%, 1);
@@ -84,4 +84,8 @@ footer{
 }
 footer a{
   color: whitesmoke;
+}
+.dropdown ul{
+  list-style-type: none;
+  padding: 0;
 }
